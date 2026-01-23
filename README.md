@@ -13,7 +13,7 @@ Here, this project can help a lot in Delhi Rejuvenation as it predicts the AQI o
 We all know that Delhi faces a lot of backlashes due to pollution and hence this AQi predictor makes it easy to predict the AQI and hence take actions on it. 
 
 One special feature of this AQI Predictor id that it also uses the Latitude and Longitude Positions of a place along with other features to predict the AQI. 
-So, it means that a person sitting at home can also set the locations of a particular place in Delhi, menton all other features and help i predicting the AQi precisely. 
+So, it means that a person sitting at home can also set the locations of a particular place in Delhi, mention all other features and help in predicting the AQi precisely. 
 Hence, this is the special feature provided in this predictor.  
 
 The prediction is mainly done based on 10 parameters: 
