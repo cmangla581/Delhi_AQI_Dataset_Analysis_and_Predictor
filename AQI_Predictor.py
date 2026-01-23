@@ -72,7 +72,7 @@ humidity = st.sidebar.slider("Humidity (%)", 10, 100, 50)
 pressure_mb = st.sidebar.slider("Pressure (MB)", 950.0, 1050.0,1010.0) 
 windspeed_kph =st.sidebar.slider("Wind Speed:", 0.0,  30.0, 5.0) 
 
-pm2_5 = st.sidebar.slider("PMM2.5", 0.0,500.0, 150.0) 
+pm2_5 = st.sidebar.slider("PM2.5", 0.0,500.0, 150.0) 
 pm10 = st.sidebar.slider("PM10", 0.0, 5000.0, 1200.0) 
 co = st.sidebar.slider("CO", 0.0,5000.0, 1200.0) 
 no2 =st.sidebar.slider("NO2", 0.0, 500.0, 40.0)  
@@ -104,6 +104,7 @@ if st.button("🔮 Predict AQI"):
 
     else: 
         st.error("Severe Air Pollution ☠️")  
+
 
 
 
