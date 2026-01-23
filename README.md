@@ -17,7 +17,7 @@ So, it means that a person sitting at home can also set the locations of a parti
 Hence, this is the special feature provided in this predictor.  
 
 The prediction is mainly done based on 10 parameters: 
-1. latitude
+1. Latitude
 2. Longitude
 3. Temperature
 4. Humidity
